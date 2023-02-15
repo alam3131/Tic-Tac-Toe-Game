@@ -4,4 +4,4 @@
  Implemented using JavaFX and project build managed using Apache Maven.
  
 #### Directions to Run the Game:
- Once the Tic Tac Toe Game file is downloaded. From terminal, navigate to that directory. When you are within the directory run the command "mvn compile exec:java" to begin running the game.
+Make sure to have Apache Maven and the Tic Tac Toe Game file downloaded. Once the Tic Tac Toe Game file is downloaded. From terminal, navigate to that directory. When you are within the directory run the command "mvn compile exec:java" to begin running the game.
